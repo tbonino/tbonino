@@ -1,5 +1,9 @@
 ### Hi there 👋
+### My name is Thomas Bonino, and I am returning to school to major in Computer Science. I have played around on computers since I could walk, and am having lots of fun learning about what's going on under the hood!
 
+### I am currently learning C++ and have already learned Python, SQL, Linux and lots of math. I am still looking for my "niche" in CS, but so far I am interested in Software Development and have had an instinct to work on the back end of things. I am always looking for more experience and learning opportunities!
+
+### The intention of this Github page is to archive/refer to my past work, and hopefully be a gateway into learning much, much more of all there is to learn in the big wide world of Computer Science.
 <!--
 **tbonino/tbonino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
